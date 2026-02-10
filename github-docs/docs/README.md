@@ -2,23 +2,23 @@
 
 ## Table of Contents
 
-- [Problem 1](problem-1.md)
+- [Problem 1](problem-01.md)
 
-- [Problem 2](problem-2.md)
+- [Problem 2](problem-02.md)
 
-- [Problem 3](problem-3.md)
+- [Problem 3](problem-03.md)
 
-- [Problem 4](problem-4.md)
+- [Problem 4](problem-04.md)
 
-- [Problem 5](problem-5.md)
+- [Problem 5](problem-05.md)
 
-- [Problem 6](problem-6.md)
+- [Problem 6](problem-06.md)
 
-- [Problem 7](problem-7.md)
+- [Problem 7](problem-07.md)
 
-- [Problem 8](problem-8.md)
+- [Problem 8](problem-08.md)
 
-- [Problem 9](problem-9.md)
+- [Problem 9](problem-09.md)
 
 - [Problem 10](problem-10.md)
 
