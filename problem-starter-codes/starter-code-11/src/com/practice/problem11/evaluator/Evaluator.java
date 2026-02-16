@@ -1,5 +1,6 @@
 package com.practice.problem11.evaluator;
 
+import com.practice.problem11.interfaces.Assignable;
 import com.practice.problem11.services.*;
 import com.practice.problem11.models.*;
 import com.practice.problem11.exceptions.*;

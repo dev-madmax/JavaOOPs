@@ -14,4 +14,19 @@ public class CropService {
         throw new UnsupportedOperationException("TODO");
     }
 
-    public void addCrop*
+    public void addCrop(Crop c1) {
+        throw new UnsupportedOperationException("TODO");
+    }
+
+    public void plantCrop(String wheat, String fieldA) {
+        throw new UnsupportedOperationException("TODO");
+    }
+
+    public HarvestRecord harvestCrop(String wheat, String fieldA, String date) {
+        throw new UnsupportedOperationException("TODO");
+    }
+
+    public void removeCrop(String corn) {
+        throw new UnsupportedOperationException("TODO");
+    }
+}

@@ -1,5 +1,6 @@
 package com.practice.problem13.evaluator;
 
+import com.practice.problem13.interfaces.Adoptable;
 import com.practice.problem13.services.*;
 import com.practice.problem13.models.*;
 import com.practice.problem13.exceptions.*;

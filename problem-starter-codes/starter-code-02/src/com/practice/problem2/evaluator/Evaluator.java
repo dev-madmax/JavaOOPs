@@ -1,5 +1,6 @@
 package com.practice.problem2.evaluator;
 
+import com.practice.problem2.interfaces.Parkable;
 import com.practice.problem2.models.*;
 import com.practice.problem2.services.*;
 import com.practice.problem2.exceptions.*;

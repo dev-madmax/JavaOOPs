@@ -1,5 +1,6 @@
 package com.practice.problem12.evaluator;
 
+import com.practice.problem12.interfaces.Bookable;
 import com.practice.problem12.services.*;
 import com.practice.problem12.models.*;
 import com.practice.problem12.exceptions.*;

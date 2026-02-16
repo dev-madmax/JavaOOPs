@@ -1,5 +1,6 @@
 package com.practice.problem7.evaluator;
 
+import com.practice.problem7.interfaces.Feedable;
 import com.practice.problem7.services.*;
 import com.practice.problem7.models.*;
 import com.practice.problem7.exceptions.*;

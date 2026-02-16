@@ -1,5 +1,6 @@
 package com.practice.problem4.evaluator;
 
+import com.practice.problem4.interfaces.Attendable;
 import com.practice.problem4.services.*;
 import com.practice.problem4.models.*;
 import com.practice.problem4.exceptions.*;
